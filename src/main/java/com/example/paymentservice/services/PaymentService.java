@@ -1,6 +1,6 @@
-package com.example.paymentserviceevebatch.services;
+package com.example.paymentservice.services;
 
-import com.example.paymentserviceevebatch.paymentgateway.PaymentGateway;
+import com.example.paymentservice.paymentgateway.PaymentGateway;
 import com.razorpay.RazorpayException;
 import com.stripe.exception.StripeException;
 import org.springframework.stereotype.Service;

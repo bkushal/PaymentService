@@ -1,7 +1,7 @@
-package com.example.paymentserviceevebatch.controllers;
+package com.example.paymentservice.controllers;
 
-import com.example.paymentserviceevebatch.dtos.InitiatePaymentRequestDto;
-import com.example.paymentserviceevebatch.services.PaymentService;
+import com.example.paymentservice.dtos.InitiatePaymentRequestDto;
+import com.example.paymentservice.services.PaymentService;
 import com.razorpay.RazorpayException;
 import org.springframework.web.bind.annotation.*;
 

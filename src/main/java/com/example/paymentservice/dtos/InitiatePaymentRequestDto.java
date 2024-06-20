@@ -1,4 +1,4 @@
-package com.example.paymentserviceevebatch.dtos;
+package com.example.paymentservice.dtos;
 
 import lombok.Getter;
 import lombok.Setter;

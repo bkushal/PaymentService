@@ -1,10 +1,10 @@
-package com.example.paymentserviceevebatch;
+package com.example.paymentservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PaymentServiceEveBatchApplicationTests {
+class PaymentServiceApplicationTests {
 
     @Test
     void contextLoads() {

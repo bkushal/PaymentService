@@ -1,4 +1,4 @@
-package com.example.paymentserviceevebatch.paymentgateway;
+package com.example.paymentservice.paymentgateway;
 
 import com.razorpay.RazorpayException;
 import com.stripe.exception.StripeException;
